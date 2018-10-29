@@ -1,0 +1,12 @@
+{
+  "name": "etag-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asakusuma/etag-playground",
+  "license": "MIT",
+  "dependencies": {
+    "etag": "^1.8.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
